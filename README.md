@@ -38,7 +38,7 @@
    <tr>
     <td>4</td>
     <td>2020</td>
-    <td> RedTeam Village and Grayhat</td>
+    <td> RedTeam Village and Grayhat (DEF CON)</td>
      <td>UK</td>
     <td><p dir="auto"><a href="https://www.youtube.com/watch?v=4de2472Pmz8">Malicious Learning: Generating fake news and political propaganda with Machine Learning</a></p></td>
   </tr>
